@@ -32,8 +32,19 @@ h2
   padding:7%;
   text-align: center;
 }
+#press
+{
+  background-color: #ff4c68;
+  text-align: center;
+  padding: 4%;
+}
 
 /********************Class Selector********************/
+.press-logo
+{
+  width: 15%;
+  margin: 10px 25px 10px;
+}
 .container-fluid {
   padding: 5% 15%;
 }

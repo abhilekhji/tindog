@@ -10,11 +10,11 @@ h1 {
   font-size: 3.5rem;
   line-height: 1.5;
 }
-h2
-{
+
+h2 {
   line-height: 1.5;
   font-size: 2rem;
-  font-family: Montserrat,sans-serif;
+  font-family: Montserrat, sans-serif;
   font-weight: 900;
 }
 
@@ -27,24 +27,28 @@ h2
   color: #8f8f8f;
 }
 
-#testimonials{
+#testimonials {
   background-color: #ff4c68;
-  padding:7%;
+  padding: 7%;
   text-align: center;
 }
-#press
-{
+
+#press {
   background-color: #ff4c68;
   text-align: center;
   padding: 4%;
 }
 
 /********************Class Selector********************/
-.press-logo
-{
+.carousel-item {
+  padding: 5% 7%;
+}
+
+.press-logo {
   width: 15%;
   margin: 10px 25px 10px;
 }
+
 .container-fluid {
   padding: 5% 15%;
 }
@@ -93,8 +97,8 @@ h2
   font-weight: bold;
   font-size: 1.5rem;
 }
-.testimonial-image
-{
+
+.testimonial-image {
   width: 200px;
   border-radius: 100%;
   margin: 40px;

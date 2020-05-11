@@ -1,0 +1,90 @@
+/********************Element Selector********************/
+body {
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+}
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 900;
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+h2
+{
+  line-height: 1.5;
+  font-size: 2rem;
+  font-family: Montserrat,sans-serif;
+  font-weight: 900;
+}
+
+/********************ID Selector********************/
+#title {
+  background-color: #ff4c68;
+}
+
+#features {
+  color: #8f8f8f;
+}
+
+#testimonials{
+  background-color: #ff4c68;
+  padding:7%;
+  text-align: center;
+}
+
+/********************Class Selector********************/
+.container-fluid {
+  padding: 5% 15%;
+}
+
+.navbar-brand {
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: bold;
+  font-size: 2.5rem;
+}
+
+.navbar {
+  padding: 0px 0px 4.5rem;
+}
+
+.nav-item {
+  padding: 16px;
+}
+
+.download-button {
+  margin: 5% 3% 5%;
+}
+
+.title-image {
+  width: 60%;
+  transform: rotate(25deg);
+}
+
+.feature-tabs {
+  text-align: center;
+  ;
+}
+
+.fas {
+  color: #ef8172;
+  height: 30px;
+  width: 30px;
+  margin-bottom: 3rem;
+}
+
+.fas:hover {
+  color: #ff4c68;
+}
+
+.feature-heading {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+.testimonial-image
+{
+  width: 200px;
+  border-radius: 100%;
+  margin: 40px;
+}
